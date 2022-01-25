@@ -25,4 +25,4 @@ async def change_status():
 
 bot.loop.create_task(setup())
 
-bot.run("OTA5ODIwOTk1MjQ0NzkzOTU5.YZJ21A.cORqlnuG_x2ytF1ILA9DRxOswKE")
+bot.run("TOKEN")
